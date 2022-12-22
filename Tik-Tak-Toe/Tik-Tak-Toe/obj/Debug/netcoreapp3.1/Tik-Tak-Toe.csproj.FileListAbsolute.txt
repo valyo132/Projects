@@ -1,0 +1,17 @@
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.exe
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.deps.json
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.runtimeconfig.json
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.runtimeconfig.dev.json
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.dll
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\bin\Debug\netcoreapp3.1\Tik-Tak-Toe.pdb
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.csproj.AssemblyReference.cache
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik_Tak_Toe.Form1.resources
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.csproj.GenerateResource.cache
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.AssemblyInfoInputs.cache
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.AssemblyInfo.cs
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.csproj.CoreCompileInputs.cache
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.dll
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.pdb
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik-Tak-Toe.genruntimeconfig.cache
+G:\C# Projects\Tik-Tak-Toe\Tik-Tak-Toe\obj\Debug\netcoreapp3.1\Tik_Tak_Toe.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tik-Tak-Toe/1.0.0": {
+        "runtime": {
+          "Tik-Tak-Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tik-Tak-Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
