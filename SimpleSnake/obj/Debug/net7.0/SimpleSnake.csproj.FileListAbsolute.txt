@@ -1,0 +1,15 @@
+G:\C# Projects\SimpleSnake\bin\Debug\net7.0\SimpleSnake.exe
+G:\C# Projects\SimpleSnake\bin\Debug\net7.0\SimpleSnake.deps.json
+G:\C# Projects\SimpleSnake\bin\Debug\net7.0\SimpleSnake.runtimeconfig.json
+G:\C# Projects\SimpleSnake\bin\Debug\net7.0\SimpleSnake.dll
+G:\C# Projects\SimpleSnake\bin\Debug\net7.0\SimpleSnake.pdb
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.csproj.AssemblyReference.cache
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.AssemblyInfoInputs.cache
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.AssemblyInfo.cs
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.csproj.CoreCompileInputs.cache
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.dll
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\refint\SimpleSnake.dll
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.pdb
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\SimpleSnake.genruntimeconfig.cache
+G:\C# Projects\SimpleSnake\obj\Debug\net7.0\ref\SimpleSnake.dll
