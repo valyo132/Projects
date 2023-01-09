@@ -1,0 +1,17 @@
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+G:\C# Projects\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.AssemblyReference.cache
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.Form1.resources
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.GenerateResource.cache
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
+G:\C# Projects\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.Properties.Resources.resources
